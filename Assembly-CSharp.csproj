@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\MapTool\Button_Menu.cs" />
+     <Compile Include="Assets\Script\MapTool\Button_Open.cs" />
+     <Compile Include="Assets\Script\MapTool\Button_Save.cs" />
+     <Compile Include="Assets\Script\MapTool\Input_Size.cs" />
      <Compile Include="Assets\Script\System\CSVRead.cs" />
      <Compile Include="Assets\Script\System\ScreenController.cs" />
      <Compile Include="Assets\Script\System\TweenManager.cs" />
